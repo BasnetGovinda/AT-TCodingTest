@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+#mydiv {
+	padding-top: 50px;
+	padding-left: 30px;
+}
+
+#paddingbottom {
+	padding-bottom: 20px;
+}
+#formelement{
+	    margin-left: 34px;
+    margin-top: 30px;
+}
